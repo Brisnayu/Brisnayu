@@ -30,7 +30,7 @@
 
 ###
 
-<img align="left" height="250" src="https://i.pinimg.com/originals/d3/9a/23/d39a23a801c75e154d9efc6e8ae780d5.gif" border-radius="50%"  />
+<img align="left" height="250" src="https://i.pinimg.com/originals/ad/54/de/ad54de596faa3b13255660fb1f5ebfe0.gif" />
 
 ###
 
