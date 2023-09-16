@@ -9,8 +9,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://res.cloudinary.com/dx8j6h1rb/image/upload/v1694866212/Hera%2C%20proyectos/nodejs_m10vls.png" height="30" width="42" alt="node js logo"  />
-  <img src="https://res.cloudinary.com/dx8j6h1rb/image/upload/v1694866212/Hera%2C%20proyectos/expressjs_logo_icon_169185_dbprrb.png" height="30" width="42" alt="express logo"  />
-  <img src="https://res.cloudinary.com/dx8j6h1rb/image/upload/v1694866212/Hera%2C%20proyectos/mongodb_fuipyj.png" height="30" width="42" alt="mongoDB logo"  />
+  <img src="https://res.cloudinary.com/dx8j6h1rb/image/upload/v1694866701/Hera%2C%20proyectos/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo_qivmcc.png" height="30" width="42" alt="express logo"  />
+  <img src="https://res.cloudinary.com/dx8j6h1rb/image/upload/v1694866727/Hera%2C%20proyectos/mongodb-logo-D13D67C930-seeklogo.com_gbaclq.png" height="30" width="42" alt="mongoDB logo"  />
 </div>
 
 ###
